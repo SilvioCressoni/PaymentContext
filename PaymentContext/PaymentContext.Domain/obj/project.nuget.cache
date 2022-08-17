@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "puuXA4d85eN2sOu0q+oLaz7US3Ygr6OR0aeqRx17kHBWjTDjWOKi44PNmFgX8DfYIsLF7Ow6k4kUsyoD5KYpig==",
+  "success": true,
+  "projectFilePath": "/Users/silviocressoni/Desktop/PaymentContext/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/silviocressoni/.nuget/packages/flunt/1.0.2/flunt.1.0.2.nupkg.sha512",
+    "/Users/silviocressoni/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/silviocressoni/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

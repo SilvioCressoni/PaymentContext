@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = PaymentContext.Shared
+build_property.ProjectDir = /Users/silviocressoni/Desktop/PaymentContext/PaymentContext/PaymentContext.Shared/

@@ -1,0 +1,10 @@
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Balta/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.deps.json
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Balta/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.dll
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Balta/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.pdb
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Balta/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csproj.AssemblyReference.cache
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Balta/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Balta/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfoInputs.cache
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Balta/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfo.cs
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Balta/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Balta/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.dll
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Balta/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.pdb
